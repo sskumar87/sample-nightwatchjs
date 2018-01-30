@@ -1,8 +1,10 @@
 # sample-nightwatchjs
 
 Requirements
-install Chrome : Version 63.xxxx
-install Node Version : v8.9.4
+1. install Chrome : Version 63.xxxx
+
+2. install Node Version : v8.9.4
+
 set Nodejs to path variable
 
 
