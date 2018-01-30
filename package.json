@@ -1,0 +1,39 @@
+{
+  "name": "sample-nightwatchjs",
+  "version": "1.0.0",
+  "description": "web testing using nightwatch",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskumar87/sample-nightwatchjs.git"
+  },
+  "keywords": [
+    "nightwatchjs",
+    "e2e",
+    "testing",
+    "web",
+    "testing"
+  ],
+  "author": "Shyam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sskumar87/sample-nightwatchjs/issues"
+  },
+  "homepage": "https://github.com/sskumar87/sample-nightwatchjs#readme",
+  "dependencies": {
+    "casperjs": "1.1.4",
+    "chai": "3.5.0",
+    "mocha": "3.2.0",
+    "mockery": "2.0.0",
+    "nightwatch": "0.9.19",
+    "nightwatch-html-reporter": "2.0.4",
+    "phantomjs": "2.1.7",
+    "selenium-server-standalone-jar": "2.48.2",
+    "selenium-webdriver": "3.6.0",
+    "webdriverio": "4.9.11",
+    "selenium-server": "^2.53.1"
+  }
+}
